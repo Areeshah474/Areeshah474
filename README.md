@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Areeshah
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning App Development,AI,Frontend Devlopment
+- 🌱 I’m currently learning App Development,AI,Frontend & Cloud 
 - 📫 How to reach me: 70149474@student.uol.edu.pk
 
 
